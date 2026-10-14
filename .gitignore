@@ -1,0 +1,4 @@
+college_scorecard.csv
+.venv/
+.ipynb_checkpoints/
+__pycache__/
